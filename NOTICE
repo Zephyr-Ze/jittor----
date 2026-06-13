@@ -1,0 +1,6 @@
+This repository contains the team's solution code for the Jittor competition
+warmup track 1.
+
+The implementation is based on the official competition warmup template and
+uses Jittor and JittorGeometric as third-party dependencies. No third-party
+source code or original dataset files are vendored in this repository.

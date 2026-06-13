@@ -1,0 +1,17 @@
+{
+  "model": "gcnii",
+  "data_path": "data/cora.pkl",
+  "output": "result.json",
+  "seed": 42,
+  "use_cuda": 1,
+  "hidden_dim": 64,
+  "num_layers": 64,
+  "alpha": 0.1,
+  "theta": 0.5,
+  "dropout": 0.6,
+  "lr": 0.01,
+  "weight_decay": 0.0005,
+  "epochs": 2000,
+  "patience": 200,
+  "log_interval": 100
+}

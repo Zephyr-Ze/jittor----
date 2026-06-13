@@ -1,0 +1,30 @@
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Local environments
+.venv/
+venv/
+envs/
+
+# Datasets and generated artifacts
+data/*
+!data/README.md
+outputs/
+*.log
+core
+core.*
+*.pkl
+*.pt
+*.ckpt
+*.npz
+*.npy
+result.zip
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
